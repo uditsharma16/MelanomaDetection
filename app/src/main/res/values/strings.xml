@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Melanoma Detection</string>
+    <string name="edit_message">Enter a Message</string>
+    <string name="md_button_login">Login</string>
+    <string name="md_user_name">Enter the User Name</string>
+    <string name="md_password">Enter Password</string>
+    <string name="md_button_continue">Press to Continue</string>
+</resources>
